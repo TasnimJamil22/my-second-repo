@@ -1,3 +1,37 @@
 .name-color{
-    color:sandybrown;
+    color: orange;
 }
+.align-p {
+    text-align: justify;
+}
+img{
+    border-radius: 50%;
+}
+section{
+    display: flex;
+
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    background-image:linear-gradient(tomato,orange);
+    border-radius: 8px;
+    text-decoration: none;
+    padding: 10px 40px;
+    color:white;
+     font-weight:400;
+    
+}
+     
