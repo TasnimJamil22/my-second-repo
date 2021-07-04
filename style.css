@@ -1,3 +1,8 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+
+}
 .name-color{
     color: orange;
 }
@@ -12,7 +17,7 @@ section{
 
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 h2{
     font-size: 40px;
@@ -32,6 +37,12 @@ h2{
     padding: 10px 40px;
     color:white;
      font-weight:400;
+    
+}
+.top-banner{
+    background-image: url(images/orange-circle.jfif);
+    background-repeat: no-repeat;
+    
     
 }
      
